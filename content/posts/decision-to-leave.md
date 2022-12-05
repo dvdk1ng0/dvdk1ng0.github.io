@@ -1,6 +1,6 @@
 ---
 title: "Movie Review - Decision to Leave (2022)"
-date: 2022-12-05T15:11:45-05:00
+date: 2022-11-18T15:11:45-05:00
 draft: false
 ---
 _Decision to Leave_ (2022) may have set the South Korean film renaissance back 20 years. When I found out the director of _Oldboy_and _The Handmaiden_ had come out with a new movie, I was completely willing to entrust him with 2 hours and 18 minutes of my time. Now I’m thinking they gave Park Chan-wook Best Director at Cannes because they all felt bad for him. 

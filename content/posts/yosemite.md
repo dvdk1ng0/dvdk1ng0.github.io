@@ -1,0 +1,56 @@
+---
+title: "Travel Review - Yosemite National Park"
+date: 2022-11-27T15:25:02-05:00
+draft: false
+---
+I must unfortunately report that the High Line is now worse than Time Square. TS is the infamous former titleholder of Worst Place in New York, once top of the list of Worst Places but now trounced by Soho, Washington Square Park, etc., and now the High Line too, suffering (the High Line is) from the dual annoyance of 1) foreign tourists, impossibly many, impossibly slow, some with strollers, the frequency of the sound of their dumb, throaty, stupid European languages sharply increasing, then decreasing as I push past them, and 2) runners, sweaty runners trying to push past _me_ like a car aggressively overtaking you only to end up at the stoplight right next to you, like who do you think you are _buddy_ - a terrible combo which has the effect of promoting the High Line over TS (but not WSP, dear god no) in the catalog of Worst Places. 
+
+I was walking home on the High Line from Hudson Yards, an even more accursed place, with its disgusting honeycomb obelisk, the stairway that leads to nowhere -  such an a clear and open invitation to suicide which, of course, a few accepted (if you feel you’ve missed out, try semi-horizontally launching yourself down the incredible length of the Hudson Yards Subway Station escalator) - now a closed and defunct monument , a symbol of Hudson Yards itself and many other _redevelopment projects_, so much money just to recreate Lenox Mall, with the added caveat that navigating around the Hudson Yards shopping complex is more like a labyrinthian trial or Escherian hellscape than a standard American shopping experience (oh you’re on the 4th floor and you want to get the 1st? Jumping over the railing is your best option, bucko). It’s too new for a spot on the List, but I think it ought to be nationally ranked. 
+
+But Hudson Yards has the closest UNIQLO, and I needed to go to UNIQLO before my trip to Yosemite tomorrow, so there I was. And I decided to take the scenic walk on the High Line rather than the 7 to the 1, the reverse of what I did to get to Hudson Yards (transferring at 42nd street, that fucking horror show). I took the walk to think, but instead I had to fight my way to 20th st. 
+
+Then I get home, and what’s blocking the sidewalk but a _camera crew_ outside the 16 Candles frozen yogurt place on the corner, a real crew with lights and the whole shebang, shooting these two models in business casual in various poses around a table, two pink chairs, and a single, once perfect, now melting - whether due to the crew’s lights or time - cup of fro-yo, spoon protruding diagonally, cup logo turned conspicuously outwards. One of these aforementioned poses had one of the collared-shirt twinks sitting and the other standing behind him with a hand on his shoulder, father-son-like, except they were the same age and, again, dressed like a first-day intern, and I broke a cardinal New York rule and stopped and stared because I simply could not parse or categorize the event. I mean, was it an attempt at cornering the 9-5 professional ice cream lovers market? A sponsored gay wedding announcement? An avant-garde short film? So I didn’t get to thinking much, or rather, I thought about the wrong things: about the stupid assessments I have to take to apply for jobs and what I’ll eat for dinner and why the fuck was there only one cup of yogurt???
+
+But I was supposed to think about my trip tomorrow to Yosemite with Josh. I’m predicting that I will be poor company, because I feel like shit. It’s going to take a lot of performance, a lot of social effort to make this trip work. But I’m determined to go through the motions as best as I can. 
+
+The flight is bumpy. My cup of ginger ale, filled to the brim with 2 mini-bottles of bourbon is swirling perilously, wedged between the tray and the fully reclined seat in front of me. My attempts to drink it result in more spillage than consumption, my hand no more capable of keeping the cup still than the tray table. So instead I just watch it. My very own seismic detector, prophesying impending disaster.
+
+A big drop, enough to make my gut fall. Zeus is incurring his tax on our deeply impious travel through the sky. The flight attendant makes a curt announcement about the seat belt sign turning on. The announcement is so short in fact, that if I wasn’t used to it, if I didn’t know that’s how they always are, I’d think it sounded panicked. A breathless series of final words before the plane goes down. Instead, I continue to trust in the impossible physics of flight. My neighbors are plugged in to the onboard entertainment device. I’m watching several movies at once by proxy. 
+
+If the plane goes down, will the bar still be open? 
+
+Arrived in San Diego. Obligatory palm trees. An IWC watch advert: the words “Top Gun” featuring a stern photo of Tom …Brady? No, that’s not right. They’ve got the wrong Tom on there. I guess they just had Tom Brady on contract and tried to make it work?
+
+It doesn’t take long for the the truth to slither out. It leaks in simple sentences. I’m getting separated. Why? Because I’m taking anti-psychotics. Why? Because I had to go to the hospital. Why? Because I tried to kill myself. The benign questions of polite conversation become a precision tool. I ought to have shut my mouth. 
+
+I’m smiling as I say it. I don’t have much of a choice except to smile, to try to keep some semblance of performance so the trip doesn’t go south so soon, with me telling him every day is misery, no I don’t regret my attempt, yes I’ve felt like this for as long as I remember, yes I’m waiting patiently to try again. It’s not therapeutic to say these things. It’s not a relief. Every new detail I divulge doesn’t make me feel closer or less alone.
+
+I’m standing in the California-style back alley of his condo. Power lines low, criss-crossed, bizarrely intertwined. It’s suburbia, kind of, compressed and without any central planning. Single-family homes, duplexes, condos with irregular spacing and ziz-zag positioning. Fences of alternating sizes and compositions jammed together. The two houses across the alley are, if you look closely, the exact reverse images of each other in form but with completely different materials and colors.  
+
+I’m determined to go through the motions. 
+
+The screen door separating me from other people seems to have followed me here. Not unexpected. This is what I hopelessly tried to explain to Bobby but couldn’t all those years ago when he sat me down at the frozen yogurt place all those years ago and asked me what was wrong. Whenever I’m with others, my brain takes up an outpost outside of myself. That means no connection to other people is ever established; there’s only disassociation and self-observation. Doesn’t matter how much I loved Bobby or how easy Josh is to get along with as a person. These things never feel…fluid. 
+
+Am I just going around and disenchanting myself from each person I think of as a friend?
+
+We make the drive up to Yosemite. The cabin is nice. Wood paneling of a different kind in every room. Pictures of bears everywhere - pillows, curtains, blankets, etc. - harping on California’s dubious status as a bear state, stolen valor from Alaska, I say.
+
+In the morning, we drive to Yosemite Falls. The window is rolled down, and the sweet smell of roasted sequoia from the controlled burns last night rolls in. The road is wet, so Josh drives. The cinematic fog of a car commercial rests gently on top of the pines. The road is full of twists and turns. RVs are coming suddenly out of the fog and behind bends and getting a bit close, a bit too close. “Professional driver on a closed course” and all that. Some  shifting gears and slightly panicked hand movements around the steering wheel. The monotony of the droopy evergreens is broken up periodically by shocks of yellow and orange.
+
+The hike is long, brutal, and mystical. The views, to Josh’s dismay, are completely obscured. At every point where the foliage drops away and we’re supposed to see the entire Yosemite Valley, we’re instead greeted with a cloudy expanse of grey. 
+
+A really fat a squirrel hops by, getting a late night snack well past the time he ought to be hibernating.
+
+There’s a guy a head of us on the trail who has a sword. That’s a walking stick, Josh says. No. It’s a sword, a real deal sword. As we get closer to pass him and his friends, it seems he’s wearing the whole medieval times get-up as well. He has the robe, the belt, even his hair is long, with bangs in a way that kind approximates chain mail? Not exactly the outfit for a strenuous hike.
+
+But, you know what, I see the vision. The trail is somewhat…Arthurian. The haphazard stone steps, the blood red branches sprawling to each side of the path, the curling, twisting roots under foot, the slight patter of rain, and, especially, the thick, mysterious, all-consuming fog. It kind of feels like going the back way up to a castle, or like journeying to a witch’s cove to obtain some secret potion. Yeah okay, maybe he’s the one dressed for the occasion.
+
+There’s a forecast of a storm of heavy rain, sleet, and snow that weekend, but it begins to look like meteorologist folly because all we ever see is a drizzle and a light dusting of snow on the rooftop of our cabin. But on the day we’re set to leave, it begins to rain, hard. The incoming storm we mocked finally comes.
+
+At first, it’s…manageable. Of course, when it’s my turn to drive, I’m clutching the steering wheel tightly, tensing up whenever I pass a big 16 wheeler and water is jettisoned from under its tires and dumped onto my windshield, obscuring my view of the highway for a second. But I make no complaints and try not to betray my fear, like a true soldier. 
+
+Things become Biblical when Josh takes the wheel back. The flood that God said he’d never send again is dumped over the entire state of California and follows us all the way back to San Diego, getting worse when we reach the alleged desert of Los Angeles County. The drive ends with a two hour manic dance on a flooded highway, sliding - swimming - from lane to lane. Visibility is barely a few feet; an impossible amount of water is coming almost horizontal at us, leaving the rear window bone dry. We pass a toppled semi truck, and I could very well believe the wind was the sole culprit. The cosmic trail of yellow and blue headlights in the oncoming lane of the highway is strangely gorgeous, at least compared to the angry pimples of brake lights in ours. The frantic motion of the windshield wipers is Sisyphean. Josh displays some admittedly talented driving, ducking cars with their hazard lights on, making snap decisions with his view completely obscured, trusting in his vehicle, trusting the other cars won’t break suddenly or change lanes without signaling, which they mostly do not. I check the weather forecast and it says simply, “rain.”
+
+I’m nauseous on the drive back and on the red eye home and on the train back from JFK. Josh hugs me before I leave. “Please don’t kill yourself,” he begs. I laugh it off, but I’m thinking guiltily, this is my last trip out here. This is my farewell tour. 
+
+#travel-review

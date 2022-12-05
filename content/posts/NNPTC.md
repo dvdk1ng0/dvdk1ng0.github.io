@@ -1,6 +1,6 @@
 ---
 title: "Travel Review - Naval Nuclear Power Training Command"
-date: 2022-12-05T14:53:06-05:00
+date: 2022-11-21T14:53:06-05:00
 draft: false
 ---
 When you enter into the military, there’s a film of despair over the whole process. The military is often the last resort, as it certainly was for me, and that feeling, the feeling of being on your last leg, that feeling permeates. 
