@@ -169,5 +169,3 @@ Your friend sits there and doesn’t speak for a while. His face is contorted. F
 
 
 
-#death
-

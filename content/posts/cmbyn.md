@@ -40,4 +40,3 @@ It’s more than a trick of the light that makes this movie a decent way to spen
 
 ![](../7241f074-011f-49dd-9dcc-ba279bf247e2_rw_1920.jpeg)
 
-#movie-review

@@ -11,4 +11,3 @@ He reveals to his boyfriend 2/3rds through the film that his (allegedly) apparen
 
 This movie repeatedly takes shots at the heteronormative warmth of Hallmark, trite and predictable as it is, but Mr. Eichner should try making a good movie before throwing stones. Is Hallmark not neurotic enough for him? Does it need to be more self-pitying for him to enjoy it? To be honest, I’d much prefer the eternal-Christmas-fugue-state than his anxiety-ridden dud of a film. 0 stars.
 
-#movie-review

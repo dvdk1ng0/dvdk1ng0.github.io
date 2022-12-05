@@ -12,4 +12,3 @@ Regardless, these sparks of competence couldn’t star a forest fire in Oregon. 
 I can do a slow film. 2019’s _Burning_, a South Korean masterpiece, operates at an unhurried, expertly controlled crawl until the final moments that make it all worth it. I can do stomach-crushing ambitious endings like the one in Bong Joon Ho’s classic _Memories of Murder_. But when it comes to Chan-wook’s latest, dull drivel, I should have made the _decision to leave_ the theater. 0/10
 
 P.S. What’s with the phones! Too many phones! Enough with the phone stuff!!
-#movie-review

@@ -16,5 +16,3 @@ But something about the words “stop suicide” irks me. It’s a small part of
 “Stop suicide.” You have a disease of the will, and we have to counterman your desires. Suicide is unreasonable in every case. You cannot choose it. We won’t let you. You have to live, no matter how awful or miserable it is. You are required to. You have no choice.
 
 But I do have a choice, don’t I?
-
-#death
