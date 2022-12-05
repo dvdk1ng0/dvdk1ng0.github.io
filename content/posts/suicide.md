@@ -3,9 +3,6 @@ title: "An Argument for the Reasonableness of Suicide"
 date: 2022-12-03T15:33:13-05:00
 draft: false
 ---
-## About You
-This is you: 
-
 You are in pain.
 
 Some days you feel okay, occasionally you feel very good, dangerously good, but most days you feel very sad. This sadness is a physical, full-body feeling, accompanied by psychic misery. You can remember feeling this way even when you were very young.
@@ -22,28 +19,24 @@ So you go to the hospital and you get on meds, several of them, and you see a th
 
 Yet the question of whether it’s worth it to live and whether suicide is a valid option is getting more and more urgent. You can only be patient for so long before it’s time to apply for a gun permit and do things _your way_. Now, objectively, you know that you are by no means “at the end of your rope.” You’re only 22, there are more medications to try, people to meet, and life paths to take. But you’re thinking, “I don’t know how much more I’ve got left in the tank. You’re thinking, “What would it take to make me want to live?” You come up empty. 
 
-## Help is Here!
-Has this ever happened to you? Are you wondering whether it is reasonable to decide to stop your body from working? I’m here to help. I’ll help you develop an argument to defend your choice. (You notice I don’t have a lot of Google Reviews, but that’s because, one way or another, most of my past clients are in a place where they can’t access their phone.)
+_Has this ever happened to you?_, the advertisement on your browser asks you. My picture appears on your screen. Fancy suit. I look to you like the ambulance-chaser type. _Are you wondering how to explain your choice to stop your body from working? Do you need help trying to convince people that you're being reasonable? I’m here to help. I’ll help you develop an argument to defend your choice._ A suicide lawyer, you think. Just what I need. (You google me and notice I don’t have a lot of reviews, but that’s because, one way or another, most of my past clients are in a place where they can’t access their phone.)
 
-We meet at a bar. I charge you 300 dollars an hour. (You’re not gonna need that cash in the grave, will you? I say) Tell me your current thinking, I say.
+You decide to solicit my services. We meet at a bar. I charge you 300 dollars an hour. (My time is very valuable, and you're not gonna need that money anyway.) Tell me your current thinking, I say.
 
 ## Your Argument
-> Let’s think about experiences, you say. Let’s say experiences can be generally be given a decimal number between -10 and 10, -10 being very bad and +10 being very good.  
->   
->   ![](../84A23DFF-6ACB-4941-9846-625202CD274B.png)  
->   
+> Let’s think about experiences, you say. Let’s say experiences can be generally be given a decimal number between -10 and 10, -10 being very bad and +10 being very good. True love could be a 7. Guantanamo bay: a -8. (When you want Chick-fil-a on a Sunday, and it's closed? -10)
 >   
 > For someone considering suicide, the plot of experiences in the past probably looks something like this:  
 >   
 >   ![](../7C561E21-8070-4BC2-A2B6-1BE70B2FEC11.png)  
 >   
 >   
-> Lot’s of bad experiences, not so many good ones. Given the sample of past experiences, we should be inclined to predict the distribution of future events will look similar.  
+> Lot’s of bad experiences, not so many good ones. Given the sample of past experiences, we could be inclined to predict the distribution of future events will look similar.  
 >   
 >   ![](../8FDEA6CB-A579-4091-8309-CBA3CF344A5F.png)  
 >   
 >   
-> Using data from the past, we’ve tried to predict the range of possibilities in the future. Since most experiences in the past were bad, most experiences will probably be bad in the future. Thus, life isn’t worth it (just look at the graph!). Therefore, suicide is reasonable.  
+> Using data from the past, we’ve predicted, with some amount of expected error, the range of possibilities in the future. Since most experiences in the past were bad, most experiences will probably be bad in the future. Thus, life isn’t worth it. Therefore, suicide is reasonable.  
 
 Now hold on, I say. This preliminary argument of yours is decent. At the very least, it avoids the irrationality of complete hopelessness, because you admit that there is still a small probability of good experiences. By describing the future as a range of possibilities, you avoid the trap of saying things like “nothing good will ever happen to me” and “my life is surely over.” You and I both know that’s not true. It’s much more reasonable to say, “Using the proportion of bad events in the past, I can predict with some confidence the proportion of bad events in the future.” A detractor, instead of simply pointing to the ever-present possibility of good events happening, now has to do more work to pick apart your version of the future.
 
@@ -57,18 +50,18 @@ Your fundamental error here is appealing to the badness of the future to support
 
 **The future won’t be worth it, so I’ll kill myself now.** (Statement A)
 
-The premise of that sentence is something you don’t know is true. You should say:
+The premise of that sentence is something you don’t know is true. You should say instead:
 
 **My life isn’t and hasn’t been worth it, and I’m too tired to go on, so I’ll kill myself now.** (Statement B)
 
-The difference is subtle, but important. With statement B, you don’t have to predict the future, you only have to evaluate your life as it is and as it has been. And who can argue with you about how you feel about your life? Who can argue with you about how exhausted you are? No one knows your experiences like you and no one but you can evaluate the truth of the premises “my life isn’t worth it and hasn’t been worth it” and “I’m too tired to go on.”
+The difference is subtle, but important. With statement B, you don’t have to predict the future, you only have to evaluate your life as it is and as it has been. And who can argue with you about how you feel about your life? Who can argue with you about how exhausted you are? No one knows your experiences like you do and no one but you can evaluate the truth of the premises “my life isn’t worth it and hasn’t been worth it” and “I’m too tired to go on.”
 
-So what we have to do now is defend the idea that those two premises imply that it’s reasonable to commit suicide. This isn’t trivial. There could very well be reasons that despite these two premises, it still isn’t okay to kill yourself. We have to defeat the various objections to Statement B. It may seem like a tough task, but don’t worry, I’ll take care of it. This is what you’re paying me for. Look, here comes someone now.
+So what we have to do now is defend the idea that those two premises imply that it’s reasonable to commit suicide. This isn’t trivial. There could very well be reasons that despite these two premises, it still isn’t okay to kill yourself. We have to defeat the various objections to Statement B. It may seem like a tough task, but don’t worry, I’ll take care of it. This is what you’re paying me for. 
 
 A friend of yours has been listening in this whole time, and he’s not very pleased. He’s sitting there on the barstool, frowning. Don’t be ridiculous, he says:
 
 ## Objection #1: The Argument from Ultra-good Experiences
-> Any reasonable person who has a normal brain and doesn’t want to die can come up with this objection almost immediately. Don’t you know the slogans? “When you’re in it, you’re in it. When you’re out, you’re out.” and “Suicide is a permanent solution to a temporary problem.” and, of course, “There is a light at the end of the tunnel.” We’re all familiar. What all of these phrases are trying to get at is that there are wonderful, perfect experiences in life that are so awesome and beautiful that they shine like a brilliant light in the darkness and can make the worst parts of life all worth it. Meeting that special person, seeing your child grow up, getting to the top of that mountain, these put all the pain and bad experiences into perspective.   
+> Any reasonable person who has a normal brain and doesn’t want to die can come up with this objection almost immediately. Don’t you know the slogans? “When you’re in it, you’re in it. When you’re out, you’re out.” and “Suicide is a permanent solution to a temporary problem.” and, of course, “There is a light at the end of the tunnel.” What all of these phrases are trying to get at is that there are wonderful, perfect experiences in life that are so awesome and beautiful that they shine like a brilliant light in the darkness and can make the worst parts of life all worth it. Meeting that special person, seeing your child grow up, getting to the top of that mountain, these put all the pain and bad experiences into perspective.   
 >   
 > Okay, maybe you’ve never had any of these experiences. Maybe you’re right and your life isn’t worth it right now. But if you kill yourself, if you press “end game,” you completely eliminate _any possibility_ of having any of these ultra-good experiences _ever_. More exactly:  
 >   
@@ -76,7 +69,7 @@ A friend of yours has been listening in this whole time, and he’s not very ple
 > 2. Ultra-good experiences are possible if and only if you are alive.  
 > 3. The possibility of ultra-good experiences is precious.  
 > 4. By committing suicide, you lose something of significant value (the possibility of ultra-good experiences)  
-> 5. It is not reasonable to do something that loss of something of significant value such as this.  
+> 5. It is not reasonable to do something that results in the loss of something of significant value such as this.  
 > 6. Therefore, suicide is not reasonable.  
 
 I shouldn’t have hired you, you say nervously. The objection is too strong, I feel the force of it, it’s impossible to defeat, you say. No, no. Don’t worry, I say. We’ve got this. I respond:
@@ -88,12 +81,12 @@ I shouldn’t have hired you, you say nervously. The objection is too strong, I 
 > 2. Jackpots are possible if and only if you keep playing slots.  
 > 3. The possibility of jackpots is precious.  
 > 4. By leaving the slots machine, you lose something of significant value (the possibility of jackpots).  
->  5. It is not reasonable to do something that loss of something of significant value such as this.  
+>  5. It is not reasonable to do something that results in the loss of something of significant value such as this.  
 > 6. Therefore, it’s never reasonable to leave the slots machine.  
 >   
 > Everyone who doesn’t own a casino can see that the Jackpot Argument fails. Does this mean your argument fails? Honestly, maybe not. Maybe it’s a bit of an unfair comparison, between the slots machine and life. So since my client and I are _not_ disingenuous, we won’t push this argument. We’ll leave it right there.  
 
-Instead, we’re going to cast doubt on step #4 of your argument; “By committing suicide, you lose something of significant value.” (“What?!” a patron at the bar exclaims, listening in. “That’s completely self-evident! Of course you lose something of significant value!”) (“What?!” you exclaim, worried. “Are you sure you know what you’re doing?!”)  (“Trust me,” I whisper.) I clear my throat. While step #4 does seem unassailable at first glance, it has serious issues. 
+Instead, we’re going to cast doubt on step #4 of your argument: “By committing suicide, you lose something of significant value.” (“What?!” a patron at the bar exclaims, listening in. “That’s completely self-evident! Of course you lose something of significant value!”) (“What?!” you exclaim, worried. “Are you sure you know what you’re doing?!”)  (“Trust me,” I whisper.) I say, While step #4 does seem unassailable at first glance, it has serious issues. 
 
 ## Counter Argument #1
 > Your argument exploits an ambiguity in the word “loses.” I readily admit that, if my client were to commit suicide, there would be an absence of the possibility of ultra-good experiences with respect to my client. (“Case closed,” your friend says. I continue.) But your argument implies that this absence would have a certain quality to it, that it would be tragic, that it would be a _loss_for my client, yes?   
@@ -102,7 +95,7 @@ Instead, we’re going to cast doubt on step #4 of your argument; “By committi
 >   
 > No. What you really mean when you talk about “loss” and about “losing” is the (negative) _experience_ of an absence that was not there before. That absence could be of a person, an object, an experience, or (in this case) a possibility of an experience. In this context, if we were to say “A loses B”, we don’t mean “A has misplaced B” or “B is simply no longer associated with A”. We mean “A has knowledge of, experiences, and thus mourns the absence B.” How else can the absence of B take on a negative quality with respect to A, except through the experience of A?  
 >   
-> The concept of loss, which is meant to apply to living people who experience things, breaks down when it’s a dead person doing the losing. It does not make sense to say my client loses the possibility of ultra-good experiences upon his death. He could not experience the absence of such experiences, because he no longer exists. How can we add a descriptor or adjective to that absence with respect to him when it isn’t experienced by him? When a person dies and then a loved one of his dies afterwords, do we say the first dead person has _lost_the second? Of course not! How can we say my client has really actually lost something when the subject that would do the “losing” no longer exists?  
+> The concept of loss, which is meant to apply to living people who experience things, breaks down when it’s a dead person doing the losing. It does not make sense to say my client loses the possibility of ultra-good experiences upon his death. He could not experience the absence of such experiences, because he no longer exists. How can we add a descriptor or adjective to that absence with respect to him when it isn’t experienced by him? When a person dies and then a loved one of his dies afterwords, do we say the first dead person has _lost_ the second? Of course not! How can we say my client has really actually lost something when the subject that would do the “losing” no longer exists?  
 >   
 > Yes, I do admit that other people will experience the aftermath of my client’s death and they may experience the absence of the possibilities he may have contained. But let’s not get it twisted. The living can have their own experiences, but they cannot prescribe an experience for the dead. The living cannot say for my client, now dead, that he has lost certain possibilities and that this loss is tragic for him because they cannot experience those absences for him. My client, wrapped in oblivion, has lost nothing.  
 >   
@@ -155,15 +148,16 @@ Your eyes are glued to a spot on the floor you seem to find very interesting. I 
 ## Counter Argument #3
 > Moments ago I just chastised my client for trying to quantify experiences, and I’m afraid I have to do the same to you, Mr. Bartender, for trying to quantify harm. How can we even try to objectively measure or compare something so -   
 
-Suddenly, you speak up, interrupting me. Your eyebrows raise as you slowly look up to meet your friend’s eyes. 
+Suddenly, you speak up, interrupting me. Your eyebrows raise as you slowly look up to meet your friend’s eyes. You say:
 
-“I know it would hurt you to see me give up, but I’m not an inexhaustible resource,” you say, quietly. “Yes, I suppose by stating my desire to do this thing, I’m admitting that you aren’t worth it for me to stick around. I guess I’m saying that I don’t love you more than I’d love to not exist. That doesn’t make me feel good. But it’s how it is. I know this will hurt you, and I know I have a duty to keep you from harm. But I also have a duty to myself. And right now, I think the best thing for me is the end of me. If you hate me for that, maybe I deserve it. 
+## Counter Argument? #3
+>I know it would hurt you to see me give up, but I’m not an inexhaustible resource, you say, quietly. Yes, I suppose by stating my desire to do this thing, I’m admitting that you aren’t worth it for me to stick around. I guess I’m saying that I don’t love you more than I’d love to not exist. That doesn’t make me feel good. But it’s how it is. I know this will hurt you, and I know I have a duty to keep you from harm. But I also have a duty to myself. And right now, I think the best thing for me is the end of me. If you hate me for that, well, maybe I deserve it. 
 
 Your friend sits there and doesn’t speak for a while. His face is contorted. Facial muscles that you’ve never seen before appear, stretched and pinched. “If this is what you need,” he says. “But I won’t be a part of it.” He stands and leaves. The bar is dead silent. A few moments later, you stand and leave as well. “Thanks,” you mutter to me. 
 
 “You’re welcome,” I say. “I hope I’ve helped you feel a bit more reasonable.”
 
-“It doesn’t matter how reasonable I think I am,” you say. “I won’t be able to convince anyone that this is what I need.”
+“It doesn’t matter how reasonable I think I am,” you say. “I won’t be able to convince anyone in any way that matters.”
 
 “I’m sorry you feel that way,” I respond. “Regardless, there’s.. um.. just the small matter of … you know, my fee…”
 
