@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Collateralized Death Obligations'
 theme = 'elephants'
 publishDir = "docs"
+[params]
+	sitename = "David's Journal"
