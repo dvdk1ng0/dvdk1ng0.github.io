@@ -10,9 +10,9 @@ I received this text message from my father a long time ago, 2013, 2014, maybe? 
 > Bear with me. This text is a little long.  
 > I have a concern that you are about to repeat the same mistake as my father and myself. You are a 3rd generation of smart men. That is our gift from God. Our gift means that whether we like it or not we are not treated the same as others and we have different expectations placed on us. We have a choice in how we handle. My father seemed to handle it by drugs and women. I unfortunately handled  by alcohol and sex outside of marriage.  
 > Here is what we learned:  
-> 1. Jesus does not exist to make us happy. we exist to glorify God by making disciples…. (sound familiar?). [he’s referencing the mission statement of our church at the time] As we glorify Him, He fulfills our deepest desires.  
+> 1.  Jesus does not exist to make us happy. we exist to glorify God by making disciples…. (sound familiar?). [he’s referencing the mission statement of our church at the time] As we glorify Him, He fulfills our deepest desires.  
 > 2.  Not possible to have friends that are  non believers. They can be people we r praying to receive Christ, co-workers, people we know at school but not friends.   
-> 3. Not possible to be in a relationship with a girl/young lady that is a non believer. I tried a few times. Only ends in heart break.   
+> 3.  Not possible to be in a relationship with a girl/young lady that is a non believer. I tried a few times. Only ends in heart break.   
 > 4.  Hard but not impossible for guys like us to have friends.  Don’t shun those who like us who r believers for those who we want to like us. Give people room to make mistakes.  
 > 5.  Careful not to leave when u should stay and stay when u should leave. Seek Godly advice from an Elder before doing either.  
 > 6.  What u feed lives what u starve dies  
