@@ -1,7 +1,7 @@
 ---
 title: "An Argument for the Reasonableness of Suicide"
 date: 2022-12-03T15:33:13-05:00
-draft: false
+draft: true
 ---
 You are in pain.
 
