@@ -1,0 +1,9 @@
+---
+title: "Braveheart"
+date: 2023-01-21T15:37:03-05:00
+draft: false
+---
+
+The violence is great. The score is awesome. And whom among us has not pushed the boyfriend of our gay, cowardly son out of a window? It’s not homophobic if the guy is _annoying_. That’s all fine, but I just think it’s fucked up that we’re supposed to pretend that Mel Gibson is handsome. 
+
+Also, now that I’m thinking about it, all the freedom shit that Wallace spouts is kind of muddled, isn’t it? “William Wallace will not be ruled,” but he’s not crusading for a _parliamentary government_ or _democracy_. He’s not a _libertarian_ seeking to be a _sovereign citizen_. He is still very much a monarchist, and how could he be anything else? The audience might project its own various modern ideas of freedom onto him, but Wallace has a uniquely medieval conception of liberty, which the film kind of has to play down so that he can be more relatable. Wallace himself tells us, “God makes men what they are,” so he has no objection to the divine right of kings, in general. Freedom, for Wallace, is when the _correct_ (Scottish) king that God has ordained rules, as opposed to an _English_ one. Fair enough, I suppose. Fuck England. But is that the kind of freedom that’s worth more than life itself?  It’s funny that Wallace says that he married his wife in secret because “he wouldn’t let an _English_ lord touch her.” Would he acquiesce, if it was a true scot who demanded prima nocta? I’m just saying it would be a pretty big blow to the film if, had Wallace survived, he ended up dropping the whole unbridled warrior thing and obediently paid homage to King Robert the Bruce, as he certainly would have. Thank god he died, so that his image could remain heroically rebellious. 6/10. 

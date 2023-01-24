@@ -1,7 +1,7 @@
 ---
 title: "Advertisement Review - The Overnight Walk"
 date: 2022-12-01T15:26:47-05:00
-draft: false
+draft: true
 ---
 “One night. One goal. Stop suicide. June 4th 2022” Though they’re a few months old by now, I still see the posters around town. An overnight walk in support of suicide prevention is a decent metaphor, actually. I’ll give them that. There are people - loved ones - who live in permanent darkness, and the walk is a chance for those who may not be able to understand or relate to commune with the melancholics in the dead of night and into the sunrise. A neat idea.
 

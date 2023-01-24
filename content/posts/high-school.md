@@ -1,5 +1,5 @@
 ---
-title: "Book Review(s) - The books I didn't read in high school"
+title: "Book Review(s) - Books I didn't read in high school"
 date: 2022-12-15T15:38:55-05:00
 draft: false
 ---
